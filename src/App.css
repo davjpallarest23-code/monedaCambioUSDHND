@@ -1,0 +1,26 @@
+
+.Principal {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: times new roman;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  font-size: 22px;
+  margin-top: 25px;
+}
+
+.error {
+  color: red;
+}
+
+FOOTER {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 14px;
+}
